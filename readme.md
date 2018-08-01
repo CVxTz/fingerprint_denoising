@@ -1,3 +1,5 @@
+Code for : https://arxiv.org/abs/1807.11888
+
 ### For training :
 copy training_ground-truth and training_input to input
 
