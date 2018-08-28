@@ -1,7 +1,7 @@
 Code for : https://arxiv.org/abs/1807.11888
 
 ### For training :
-copy training_ground-truth and training_input to input
+copy training_ground-truth, validation_ground-truth, validation_input and training_input to input ( from https://competitions.codalab.org/competitions/18426 )
 
 go to code folder and run : python baseline_aug.py -d 0.1 -a ReLU > logs_1.txt
 
