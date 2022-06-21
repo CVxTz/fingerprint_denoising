@@ -1,5 +1,5 @@
 Keras==2.2.0
-numpy==1.14.5
+numpy==1.22.0
 tqdm==4.23.2
 pandas==0.20.3
 Keras_Preprocessing==1.0.1
